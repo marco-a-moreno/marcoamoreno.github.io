@@ -1,0 +1,55 @@
+#content{
+    text-align: center;
+    padding-top: 25%;
+    color: #5e4e16;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+body{
+     background-image: url(https://images.unsplash.com/photo-1516139008210-96e45dccd83b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80); 
+    
+    background-size: cover;
+    background-position: 0% 62%;
+    font-family: 'Balsamiq Sans', cursive;
+    
+}
+.btn-outline-secondary{
+    color:#f5f2eb;
+    
+}
+
+.navbar-brand{
+    color:#5e4e16!important;
+}
+
+.nav-link{
+    color: rgb(99, 99, 99) !important;
+}
+.nav-link:hover{
+color: #5e4e16 !important;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background: #5e4e16;
+    background-image: linear-gradient(to right, #ccc, #5e4e16, #ccc);
+    
+}
+
+h1, h3{
+    font-family: 'Balsamiq Sans', bold;
+    font-weight: 700 !important;
+}
+.btn-outline-warning{
+    border-color: #5e4e16;
+    color: #5e4e16;
+    font-family: 'Balsamiq Sans', bold;
+    font-weight: 700 !important;
+}
+.btn-outline-warning:hover{
+     background-color: #5e4e16  ;
+     color: white;
+     border-color: #5e4e16;
+}
